@@ -1,12 +1,13 @@
-## bug fix (Verified by maintainer)
-Will be disclosed soon
+## bug fix / reports
 
-### bun
-- https://github.com/oven-sh/bun/issues/30621
+Will be disclosed after vendor confirmation or public advisory.
 
-### nginx
-- [nginx bug report] UBSan undefined behavior
+### Public / verified
+- oven-sh/bun#30621 - bun build CSS crash
+- nginx bug report - UBSan undefined behavior
+- Chrome PDFium bug
+- Chrome printer-related bug
 
-### Chrome
-- https://issues.chromium.org/u/1/issues/511554361 : `PDFium`
-- https://issues.chromium.org/u/1/issues/509564340 : `Printer related`
+### Pending private disclosure
+- Bun security reports: 3 pending
+- Open WebUI security advisories: 3 pending
