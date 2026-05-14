@@ -12,10 +12,13 @@ public advisory, or explicit permission from the vendor.
 
 ## Pending Private Disclosure
 
-- Bun security reports: 3 pending
-- Open WebUI security advisories: 3 pending
-- ClickHouse security reports: 2 pending
-- DuckDB security report: 1 pending
+- Bun security reports: 4
+- Open WebUI advisories: 3
+- DuckDB vuln report: 1
+- ClickHouse reports: 4
+- Bun CSS crash issue: 1
+- DuckDB normal issues: 2
+
 
 ## Public Issues
 
