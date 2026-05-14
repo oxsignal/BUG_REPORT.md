@@ -16,8 +16,6 @@ public advisory, or explicit permission from the vendor.
 - Open WebUI advisories: 3
 - DuckDB vuln report: 1
 - ClickHouse reports: 4
-- Bun CSS crash issue: 1
-- DuckDB normal issues: 2
 
 
 ## Public Issues
