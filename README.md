@@ -4,7 +4,6 @@ Will be disclosed after vendor confirmation or public advisory.
 
 ### Public / verified
 - oven-sh/bun#30621 - bun build CSS crash
-- flowise - privilege related
 - nginx bug report - UBSan undefined behavior
 - Chrome PDFium bug
 - Chrome printer-related bug
