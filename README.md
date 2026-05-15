@@ -8,7 +8,7 @@ public advisory, or explicit permission from the vendor.
 - oven-sh/bun#30621 - `bun build` CSS crash
 - NGINX bug report - UBSan undefined behavior in the HTTP MP4 module
 - Chrome PDFium bug
-- Chrome printer-related bug
+
 
 ## Pending Private Disclosure
 
@@ -26,3 +26,4 @@ public advisory, or explicit permission from the vendor.
 ## Duplicate / Not Accepted
 
 - Flowise: duplicate
+- Chrome printer-related bug: duplicate
