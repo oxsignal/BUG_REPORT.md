@@ -21,7 +21,6 @@ public advisory, or explicit permission from the vendor.
 ## Pending Private Disclosure
 
 - Bun security reports: 4
-- Open WebUI advisories: 1
 - DuckDB vuln report: 1
 - ClickHouse reports: 4
 
@@ -31,7 +30,8 @@ public advisory, or explicit permission from the vendor.
 - DuckDB issue: https://github.com/duckdb/duckdb/issues/22663
 - DuckDB issue: https://github.com/duckdb/duckdb/issues/22660
 
-## Duplicate / Not Accepted
 
-- Flowise: duplicate
-- Chrome printer-related bug: duplicate
+## Duplicate / Not Accepted
+- Flowise: 1
+- Chrome: 1
+- Open WebUI: 1
