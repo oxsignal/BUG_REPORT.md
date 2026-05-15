@@ -21,7 +21,7 @@ public advisory, or explicit permission from the vendor.
 
 
 ## Public Issues
-
+- llama.cpp issue: https://github.com/ggml-org/llama.cpp/issues/23108
 - DuckDB issue: https://github.com/duckdb/duckdb/issues/22663
 - DuckDB issue: https://github.com/duckdb/duckdb/issues/22660
 
