@@ -3,10 +3,12 @@
 Details for private reports will be disclosed after vendor confirmation,
 public advisory, or explicit permission from the vendor.
 
+All reports below have been manually verified by me and are genuine.
+
 ## Public / Verified
 
 <ul>
-  <li>oven-sh/bun#30621 - `bun build` CSS crash </li>
+  <li>oven-sh/bun#30621 - 'bun build' CSS crash </li>
   <li>NGINX bug report - UBSan undefined behavior in the HTTP MP4 module</li>
   <li>Chrome PDFium bug</li>
   <li>Open WebUI
