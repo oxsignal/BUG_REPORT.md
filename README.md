@@ -24,7 +24,7 @@ Started from 4 May.
 
 ## Pending Private Disclosure
 
-- Bun security reports: 4
+- Bun security reports: 5
 - DuckDB vuln report: 1
 - ClickHouse reports: 4
 - openclaw reports : 1 (may be duplicated)
