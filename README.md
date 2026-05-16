@@ -5,6 +5,8 @@ public advisory, or explicit permission from the vendor.
 
 All reports below have been manually verified by me and are genuine.
 
+Started from 4 May.
+
 ## Public / Verified
 
 <ul>
