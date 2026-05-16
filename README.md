@@ -1,45 +1,48 @@
-# Bug Fixes / Reports
+# 🛠️ Bug Fixes / Reports
 
-Details for private reports will be disclosed after vendor confirmation,
-public advisory, or explicit permission from the vendor.
-
-All reports below have been manually verified by me and are genuine.
+> Details for private reports will be disclosed after vendor confirmation, public advisory, or explicit permission from the vendor.  
+> All reports below have been manually verified by me and are genuine.
 
 Started from 4 May.
 
-## Public / Verified
+## ✅ Public / Verified
 
-<ul>
-  <li> oven-sh/bun#30621 - 'bun build' CSS crash </li>
-  <li> NGINX bug report - UBSan undefined behavior in the HTTP MP4 module</li>
-  <li> Chrome PDFium bug 1 </li>
-  <li> bun 1 </li>
-  <li> Open WebUI
-    <ul>
-      <li>https://github.com/open-webui/open-webui/pull/24753</li>
-      <li>https://github.com/open-webui/open-webui/pull/24755</li>
-    </ul>
-  </li>
-</ul>
+| Project | Report | Status |
+|---|---|---|
+| NGINX | [commit](https://github.com/nginx/nginx/commit/18a70a4d5806b5578d00460493954262ece55019) | Public |
+| Bun | oven-sh/bun#30621 | Verified |
+| Chrome PDFium | PDFium crash bug 1 | Verified |
+| Bun | bun 1 | Verified |
+| Open WebUI | [PR #24753](https://github.com/open-webui/open-webui/pull/24753), [PR #24755](https://github.com/open-webui/open-webui/pull/24755) | Public |
 
-## Pending Private Disclosure
+## 🔒 Pending Private Disclosure
 
-- Bun security reports: 5
-- DuckDB vuln report: 1
-- ClickHouse reports: 4
-- openclaw reports : 1 (may be duplicated)
+| Vendor / Project | Count | Notes |
+|---|---:|---|
+| Bun | 5 | Security reports |
+| DuckDB | 1 | Vulnerability report |
+| ClickHouse | 4 | Reports |
+| OpenClaw | 1 | May be duplicate |
 
-## Public Issues / not verified by maintainer
-- llama.cpp issue: https://github.com/ggml-org/llama.cpp/issues/23108
-- DuckDB issue: https://github.com/duckdb/duckdb/issues/22663
-- DuckDB issue: https://github.com/duckdb/duckdb/issues/22660
+## 🧪 Public Issues / Not Yet Verified by Maintainer
 
+| Project | Issue |
+|---|---|
+| llama.cpp | [ggml-org/llama.cpp#23108](https://github.com/ggml-org/llama.cpp/issues/23108) |
+| DuckDB | [duckdb/duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) |
+| DuckDB | [duckdb/duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
 
-## Duplicate / Not Accepted
-- Flowise: 1
-- Chrome: 1
-- Open WebUI: 1
+## 📦 Duplicate / Not Accepted
 
-## Not reported
-- Apple lipo 2
-- clickhouse 1
+| Project | Count |
+|---|---:|
+| Flowise | 1 |
+| Chrome | 1 |
+| Open WebUI | 1 |
+
+## 📝 Not Reported
+
+| Project | Count |
+|---|---:|
+| Apple lipo | 2 |
+| ClickHouse | 1 |
