@@ -23,7 +23,7 @@ public advisory, or explicit permission from the vendor.
 - Bun security reports: 4
 - DuckDB vuln report: 1
 - ClickHouse reports: 4
-
+- openclaw reports : 1 (may be duplicated)
 
 ## Public Issues
 - llama.cpp issue: https://github.com/ggml-org/llama.cpp/issues/23108
@@ -35,3 +35,7 @@ public advisory, or explicit permission from the vendor.
 - Flowise: 1
 - Chrome: 1
 - Open WebUI: 1
+
+## Not reported
+- Apple lipo 1
+- clickhouse 1
