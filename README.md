@@ -15,7 +15,6 @@ public advisory, or explicit permission from the vendor.
       <li>https://github.com/open-webui/open-webui/pull/24755</li>
     </ul>
   </li>
-  <li>Fourth item</li>
 </ul>
 
 ## Pending Private Disclosure
@@ -37,5 +36,5 @@ public advisory, or explicit permission from the vendor.
 - Open WebUI: 1
 
 ## Not reported
-- Apple lipo 1
+- Apple lipo 2
 - clickhouse 1
