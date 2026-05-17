@@ -19,11 +19,11 @@ Started from 4 May.
 
 | Vendor / Project | Count | Notes |
 |---|---:|---|
-| Bun | 4 | Security reports |
+| Bun | 4 | Vulnerability report |
 | DuckDB | 1 | Vulnerability report |
-| ClickHouse | 4 | Reports |
-| OpenClaw | 1 | May be duplicate |
-| Codex-windows | 1 |sandbox related|
+| ClickHouse | 4 | Vulnerability report |
+| OpenClaw | 1 | May be duplicated? |
+| Codex-windows | 1 | Sandbox-related coming soooon |
 | Apple MacOS | 1 | Dev tools |
 ## 🧪 Public Issues / Not Yet Verified by Maintainer
 
