@@ -23,7 +23,7 @@ Started from 4 May.
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Reports |
 | OpenClaw | 1 | May be duplicate |
-
+| Codex-windows | 1 |sandbox related|
 ## 🧪 Public Issues / Not Yet Verified by Maintainer
 
 | Project | Issue |
@@ -40,6 +40,7 @@ Started from 4 May.
 | Chrome | 1 |printer|
 | Open WebUI | 1 |calendar|
 | Codex-cli | 1 |sandbox related|
+
 
 ## 📝 Not Reported
 
