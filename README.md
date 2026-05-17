@@ -24,6 +24,7 @@ Started from 4 May.
 | ClickHouse | 4 | Reports |
 | OpenClaw | 1 | May be duplicate |
 | Codex-windows | 1 |sandbox related|
+| Apple MacOS | 1 | Dev tools |
 ## 🧪 Public Issues / Not Yet Verified by Maintainer
 
 | Project | Issue |
