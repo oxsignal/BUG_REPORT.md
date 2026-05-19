@@ -26,6 +26,7 @@ Started from 4 May.
 | Codex-windows | 1 | Sandbox-related coming soooon |
 | Apple MacOS | 1 | Dev tools |
 | Apple MacOS | 1 | Flag write bounty |
+| Apple MacOS | 1 | bug report |
 ## 🧪 Public Issues / Not Yet Verified by Maintainer
 
 | Project | Issue |
