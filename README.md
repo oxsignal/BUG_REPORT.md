@@ -5,8 +5,8 @@
 
 Started from 4 May.
 
-## CVE
-[CVE-2026-45671](https://www.cve.org/CVERecord?id=CVE-2026-45671)
+
+
 
 ## Public / Verified
 
@@ -46,6 +46,7 @@ Started from 4 May.
 | Chrome | 1 | Printer-related duplicate |
 | Open WebUI | 1 | Calendar issue |
 | Codex CLI | 1 | Sandbox-related |
+[CVE-2026-45671](https://www.cve.org/CVERecord?id=CVE-2026-45671)
 
 ## Not Reported
 
