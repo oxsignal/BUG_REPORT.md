@@ -25,7 +25,7 @@ Started from 4 May.
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Vulnerability reports |
 | OpenClaw | 1 | Security report |
-| Apple macOS | 3 | 1 COMM flag |
+| Apple macOS | 4 | 2 COMM flag |
 | openbao | 1 | |
 
 ## Public Issues / Not Yet Verified by Maintainer
