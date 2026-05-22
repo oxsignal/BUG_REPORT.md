@@ -25,7 +25,7 @@ Started from 4 May.
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Vulnerability reports |
 | OpenClaw | 1 | Security report |
-| Codex Windows | 1 | Sandbox boundary issue |
+
 | Apple macOS | 1 | Developer tools bug |
 | Apple macOS | 1 | dyld memory corruption |
 | Apple macOS | 1 | Bug report |
@@ -46,6 +46,7 @@ Started from 4 May.
 | Chrome | 1 | Printer-related duplicate |
 | Open WebUI | 1 | Calendar issue |
 | Codex CLI | 1 | Sandbox-related |
+| Codex Windows | 1 | Patched during triage |
 
 ## Not Reported
 
