@@ -25,17 +25,15 @@ Started from 4 May.
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Vulnerability reports |
 | OpenClaw | 1 | Security report |
-| Apple macOS | 1 | Developer tools bug |
-| Apple macOS | 1 | dyld memory corruption |
-| Apple macOS | 1 | Bug report |
+| Apple macOS | 3 | 1 COMM flag |
+| openbao | 1 | |
 
 ## Public Issues / Not Yet Verified by Maintainer
 
 | Project | Issue |
 |---|---|
 | llama.cpp | [ggml-org/llama.cpp#23108](https://github.com/ggml-org/llama.cpp/issues/23108) |
-| DuckDB | [duckdb/duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) |
-| DuckDB | [duckdb/duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
+| DuckDB | [duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) [duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
 
 ## Duplicate / Not Accepted
 
