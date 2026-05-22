@@ -25,7 +25,6 @@ Started from 4 May.
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Vulnerability reports |
 | OpenClaw | 1 | Security report |
-
 | Apple macOS | 1 | Developer tools bug |
 | Apple macOS | 1 | dyld memory corruption |
 | Apple macOS | 1 | Bug report |
