@@ -23,7 +23,7 @@ Started from 4 May.
 |---|---:|---|
 | Bun | 4 | Vulnerability reports |
 | DuckDB | 1 | Vulnerability report |
-| ClickHouse | 4 | Vulnerability reports |
+| ClickHouse | 5 | Vulnerability reports |
 | OpenClaw | 1 | Security report |
 | Apple macOS | 4 | 2 COMM flag |
 | openbao | 1 | |
@@ -50,4 +50,3 @@ Started from 4 May.
 | Project | Count |
 |---|---:|
 | Apple lipo | 2 |
-| ClickHouse | 1 |
