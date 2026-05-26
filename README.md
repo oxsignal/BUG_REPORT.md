@@ -16,6 +16,7 @@ Started from 4 May.
 | Bun | [oven-sh/bun#30621](https://github.com/oven-sh/bun/issues/30621) | Verified |
 | Chrome PDFium | PDFium crash bug | Verified |
 | Open WebUI | [PR #24753](https://github.com/open-webui/open-webui/pull/24753)| Public |
+| OpenClaw | [For tracker](https://github.com/openclaw/openclaw/pull/83741) | Public |
 
 ## Pending Private Disclosure
 
@@ -24,7 +25,6 @@ Started from 4 May.
 | Bun | 4 | Vulnerability reports |
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Vulnerability reports |
-| OpenClaw | 1 | Security report |
 | Apple macOS | 5 | 3 COMM flag |
 | openbao | 1 | |
 
