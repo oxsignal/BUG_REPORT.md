@@ -23,7 +23,7 @@ Started from 4 May.
 |---|---:|---|
 | Bun | 4 | Vulnerability reports |
 | DuckDB | 1 | Vulnerability report |
-| ClickHouse | 5 | Vulnerability reports |
+| ClickHouse | 4 | Vulnerability reports |
 | OpenClaw | 1 | Security report |
 | Apple macOS | 4 | 2 COMM flag |
 | openbao | 1 | |
@@ -44,6 +44,7 @@ Started from 4 May.
 | Open WebUI | 1 | Calendar issue |
 | Codex CLI | 1 | Sandbox-related |
 | Codex Windows | 1 | Patched during triage |
+| Clickhouse | 1 |  |
 
 ## Not Reported
 
