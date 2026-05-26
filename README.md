@@ -25,7 +25,6 @@ Started from 4 May.
 | Bun | 4 | Vulnerability reports |
 | DuckDB | 1 | Vulnerability report |
 | ClickHouse | 4 | Vulnerability reports |
-| Apple macOS | 5 | 3 COMM flag |
 | openbao | 1 | |
 
 ## Public Issues / Not Yet Verified by Maintainer
@@ -45,7 +44,7 @@ Started from 4 May.
 | Codex CLI | 1 | Sandbox-related |
 | Codex Windows | 1 | Patched during triage |
 | Clickhouse | 1 |  |
-
+| Apple macOS | 5 | dyld -> no candidate |
 ## Not Reported
 
 | Project | Count |
