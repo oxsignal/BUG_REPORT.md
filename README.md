@@ -16,7 +16,7 @@ Started from 4 May.
 | Bun | [oven-sh/bun#30621](https://github.com/oven-sh/bun/issues/30621) | Verified |
 | Chrome PDFium | PDFium crash bug | Verified |
 | Open WebUI | [PR #24753](https://github.com/open-webui/open-webui/pull/24753)| Public |
-| OpenClaw | [For tracker](https://github.com/openclaw/openclaw/pull/83741) | Public |
+| OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Public |
 
 ## Pending Private Disclosure
 
