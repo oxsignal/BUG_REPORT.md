@@ -28,6 +28,7 @@ Started from 4 May.
 | ClickHouse | 4 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
+| VLC media | 1 | |
 
 ## Public Issues / Not Yet Verified by Maintainer
 
