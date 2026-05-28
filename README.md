@@ -1,4 +1,4 @@
-# Bug Fixes / Reports
+# OSS Bug Fixes / Reports
 
 > Details for private reports will be disclosed after vendor confirmation, public advisory, or explicit permission from the vendor.  
 > Entries are based on manual verification and vendor-visible artifacts.
@@ -28,7 +28,7 @@ Started from 4 May.
 | ClickHouse | 4 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
-| VLC media | 1 | |
+| VLC media | 2 | |
 
 ## Public Issues / Not Yet Verified by Maintainer
 
