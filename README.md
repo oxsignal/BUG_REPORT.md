@@ -22,10 +22,11 @@ Started from 4 May.
 
 | Vendor / Project | Count | Notes |
 |---|---:|---|
-| Bun | 4 | Vulnerability reports |
-| DuckDB | 1 | Vulnerability report |
-| ClickHouse | 4 | Vulnerability reports |
-| openbao | 1 | |
+| Bun | 4 ||
+| DuckDB | 1 ||
+| ClickHouse | 4 ||
+| openbao | 1 ||
+| canonical-workshop | 2 | |
 
 ## Public Issues / Not Yet Verified by Maintainer
 
@@ -44,7 +45,7 @@ Started from 4 May.
 | Codex CLI | 1 | Sandbox-related |
 | Codex Windows | 1 | Patched during triage |
 | Clickhouse | 1 |  |
-| Apple macOS | 5 | dyld -> no candidate |
+| Apple macOS | 5 | userland memory corruption |
 ## Not Reported
 
 | Project | Count |
