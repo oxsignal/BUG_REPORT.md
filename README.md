@@ -18,6 +18,7 @@ Started from 4 May.
 | Open WebUI | [PR #24753](https://github.com/open-webui/open-webui/pull/24753)| Public |
 | OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Public |
 | DuckDB | [duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) [duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
+| VLC media | 1 | Waiting disclosure |
 
 ## Pending Private Disclosure
 
@@ -28,7 +29,8 @@ Started from 4 May.
 | ClickHouse | 4 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
-| VLC media | 2 | |
+| VLC media | 1 | |
+| Apple macOS | 3 | submitted on Phrack 73 |
 
 ## Public Issues / Not Yet Verified by Maintainer
 
@@ -47,7 +49,7 @@ Started from 4 May.
 | Codex CLI | 1 | Sandbox-related |
 | Codex Windows | 1 | Patched during triage |
 | Clickhouse | 1 |  |
-| Apple macOS | 5 | userland memory corruption |
+| Apple macOS | 2 | userland memory corruption |
 ## Not Reported
 
 | Project | Count |
