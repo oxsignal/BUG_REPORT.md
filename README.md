@@ -29,7 +29,6 @@ Started from 4 May.
 | ClickHouse | 4 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
-| VLC media | 1 | |
 | Apple macOS | 3 | submitted on Phrack 73 |
 
 ## Public Issues / Not Yet Verified by Maintainer
@@ -50,6 +49,8 @@ Started from 4 May.
 | Codex Windows | 1 | Patched during triage |
 | Clickhouse | 1 |  |
 | Apple macOS | 2 | userland memory corruption |
+| VLC media | 1 | |
+
 ## Not Reported
 
 | Project | Count |
