@@ -18,7 +18,7 @@ Started from 4 May.
 | Open WebUI | [PR #24753](https://github.com/open-webui/open-webui/pull/24753)| Public |
 | OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Public |
 | DuckDB | [duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) [duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
-| VLC media | 1 | Waiting disclosure |
+| VLC media | 1 | verified |
 
 ## Pending Private Disclosure
 
@@ -42,17 +42,18 @@ Started from 4 May.
 
 | Project | Count | Notes |
 |---|---:|---|
-| Flowise | 1 | Duplicate |
-| Chrome | 1 | Printer-related duplicate |
-| Open WebUI | 1 | Calendar issue |
-| Codex CLI | 1 | Sandbox-related |
+| Flowise | 1 | Dup |
+| Chrome | 1 |  Dup |
+| Open WebUI | 1 | Dup |
+| Codex CLI | 1 | Obsolete |
 | Codex Windows | 1 | Patched during triage |
-| Clickhouse | 1 |  |
-| Apple macOS | 2 | userland memory corruption |
-| VLC media | 1 | |
+| Clickhouse | 1 | Dup |
+| Apple macOS | 2 | Not Security issue |
+| VLC media | 1 | Dup |
 
 ## Not Reported
 
 | Project | Count |
 |---|---:|
 | Apple lipo | 2 |
+| Safari crash | 2|
