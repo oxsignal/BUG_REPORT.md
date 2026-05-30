@@ -24,7 +24,7 @@ Started from 4 May.
 
 | Vendor / Project | Count | Notes |
 |---|---:|---|
-| Bun | 4 ||
+| Bun | 4 |¯\_(ツ)_/¯ |
 | DuckDB | 1 ||
 | ClickHouse | 4 ||
 | openbao | 1 ||
