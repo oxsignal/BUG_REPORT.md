@@ -30,6 +30,7 @@ Started from 4 May.
 | openbao | 1 ||
 | canonical-workshop | 2 | |
 | Protobuf | 1 | Pending triage before VRP |
+| Filament | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
 
 ## Public Issues / Not Yet Verified by Maintainer
