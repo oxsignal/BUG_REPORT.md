@@ -26,7 +26,7 @@ Started from 4 May.
 |---|---:|---|
 | Bun | 4 |¯\_(ツ)_/¯ |
 | DuckDB | 1 ||
-| ClickHouse | 4 ||
+| ClickHouse | 3 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
 | Protobuf | 1 | Pending triage before VRP |
@@ -49,7 +49,7 @@ Started from 4 May.
 | Open WebUI | 1 | Dup |
 | Codex CLI | 1 | Obsolete |
 | Codex Windows | 1 | Patched during triage |
-| Clickhouse | 1 | Dup |
+| Clickhouse | 2 | Dup |
 | Apple macOS | 2 | Not Security issue |
 | VLC media | 1 | Dup |
 
