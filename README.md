@@ -55,6 +55,7 @@ Started from 4 May.
 | Apple macOS | 2 | Not Security issue |
 | VLC media | 1 | Dup |
 | MongoDB | 1 | Dup|
+| vercel | 4 | Dup|
 ## Not Reported
 
 | Project | Count |
