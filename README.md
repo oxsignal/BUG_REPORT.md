@@ -29,7 +29,7 @@ Started from 4 May.
 | ClickHouse | 3 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
-
+| nitro | 2 | |
 | Protobuf | 1 | Pending triage before VRP |
 | Filament | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
