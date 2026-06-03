@@ -29,7 +29,7 @@ Started from 4 May.
 | ClickHouse | 3 ||
 | openbao | 1 ||
 | canonical-workshop | 2 | |
-| MongoDB | 1 | |
+
 | Protobuf | 1 | Pending triage before VRP |
 | Filament | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
@@ -54,7 +54,7 @@ Started from 4 May.
 | Clickhouse | 2 | Dup |
 | Apple macOS | 2 | Not Security issue |
 | VLC media | 1 | Dup |
-
+| MongoDB | 1 | Dup|
 ## Not Reported
 
 | Project | Count |
