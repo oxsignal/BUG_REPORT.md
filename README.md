@@ -17,8 +17,9 @@ Started from 4 May.
 | Chrome PDFium | PDFium crash bug | Verified |
 | Open WebUI | [PR #24755](https://github.com/open-webui/open-webui/pull/24755)| Merged |
 | OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Merged |
-| DuckDB | [duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) [duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
+| DuckDB | [#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) |
 | VLC media | 1 | verified |
+| openbao | [#3235](https://github.com/openbao/openbao/issues/3235) |Hardening issue|
 
 ## Pending Private Disclosure
 
@@ -27,7 +28,6 @@ Started from 4 May.
 | Bun | 4 |¯\_(ツ)_/¯ |
 | DuckDB | 1 ||
 | ClickHouse | 3 ||
-| openbao | 1 ||
 | canonical-workshop | 2 | |
 | vercel | 1 | |
 | cloudflare | 1 | |
