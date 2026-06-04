@@ -15,7 +15,7 @@ Started from 4 May.
 | NGINX | [commit](https://github.com/nginx/nginx/commit/18a70a4d5806b5578d00460493954262ece55019) | Public |
 | Bun | [bun#30621](https://github.com/oven-sh/bun/issues/30621) | Verified |
 | Chrome PDFium | PDFium crash bug | Verified |
-| Open WebUI | [PR #24753](https://github.com/open-webui/open-webui/pull/24753)| Public |
+| Open WebUI | [PR #24755](https://github.com/open-webui/open-webui/pull/24755)| Public |
 | OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Public |
 | DuckDB | [duckdb#22663](https://github.com/duckdb/duckdb/issues/22663) [duckdb#22660](https://github.com/duckdb/duckdb/issues/22660) |
 | VLC media | 1 | verified |
