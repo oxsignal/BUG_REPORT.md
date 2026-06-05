@@ -32,7 +32,6 @@ Started from 4 May.
 | vercel | 1 | |
 | cloudflare | 1 | |
 | Protobuf | 1 | Pending triage before VRP |
-| Filament | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
 
 
@@ -40,6 +39,7 @@ Started from 4 May.
 
 | Project | Issue |
 |---|---|
+| Filament | [#10091](https://github.com/google/filament/issues/10091)|
 | llama.cpp | [ggml-org/llama.cpp#23108](https://github.com/ggml-org/llama.cpp/issues/23108) |
 
 
