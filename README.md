@@ -30,7 +30,7 @@ Started from 4 May.
 | ClickHouse | 3 ||
 | canonical-workshop | 2 | |
 | vercel | 1 | |
-| cloudflare | 1 | |
+| cloudflare | 2 | |
 | Protobuf | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
 
