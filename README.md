@@ -25,7 +25,7 @@ Started from 4 May.
 
 | Vendor / Project | Count | Notes |
 |---|---:|---|
-| Bun | 4 |¯\_(ツ)_/¯ |
+| Bun | 5 |¯\_(ツ)_/¯ |
 | DuckDB | 1 ||
 | ClickHouse | 3 ||
 | canonical-workshop | 2 | |
@@ -63,3 +63,4 @@ Started from 4 May.
 |---|---:|
 | Apple lipo | 2 |
 | Safari crash | 2|
+| Cloudflare | 1 |
