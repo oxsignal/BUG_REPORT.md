@@ -29,10 +29,10 @@ Started from 4 May.
 |---|---:|---|
 | Bun | 5 |¯\_(ツ)_/¯ |
 | DuckDB | 1 ||
-| ClickHouse | 3 ||
+| ClickHouse | 3 |BugCrowd|
 | canonical-workshop | 1 | |
 | vercel | 1 | |
-| cloudflare | 2 | |
+| cloudflare | 2 |Hacker0ne|
 | Protobuf | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
 
