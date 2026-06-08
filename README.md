@@ -20,6 +20,8 @@ Started from 4 May.
 | DuckDB | [#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) |
 | VLC media | 1 | verified |
 | openbao | [#3235](https://github.com/openbao/openbao/issues/3235) |Hardening issue|
+| canonical-workshop | 1 | GHSA accepted |
+
 
 ## Pending Private Disclosure
 
@@ -28,7 +30,7 @@ Started from 4 May.
 | Bun | 5 |¯\_(ツ)_/¯ |
 | DuckDB | 1 ||
 | ClickHouse | 3 ||
-| canonical-workshop | 2 | |
+| canonical-workshop | 1 | |
 | vercel | 1 | |
 | cloudflare | 2 | |
 | Protobuf | 1 | Pending triage before VRP |
