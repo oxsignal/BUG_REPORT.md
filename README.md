@@ -21,7 +21,7 @@ Started from 4 May.
 | VLC media | 1 | verified |
 | openbao | [#3235](https://github.com/openbao/openbao/issues/3235) |Hardening issue|
 | canonical-workshop | 1 | GHSA accepted |
-
+| Protobuf | 1 | Verified |
 
 ## Pending Private Disclosure
 
@@ -33,7 +33,6 @@ Started from 4 May.
 | canonical-workshop | 1 | |
 | vercel | 1 | |
 | cloudflare | 2 |Hacker0ne|
-| Protobuf | 1 | Pending triage before VRP |
 | Apple macOS | 3 | submitted on Phrack 73 |
 
 
