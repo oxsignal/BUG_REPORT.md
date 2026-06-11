@@ -15,7 +15,6 @@ CVE-2026-54010
 | NGINX | [commit](https://github.com/nginx/nginx/commit/18a70a4d5806b5578d00460493954262ece55019) | Merged |
 | Bun | [bun#30621](https://github.com/oven-sh/bun/issues/30621) | Verified |
 | Chrome PDFium | PDFium crash bug | Verified |
-| Open WebUI | [PR #24755](https://github.com/open-webui/open-webui/pull/24755)| Merged |
 | OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Merged |
 | DuckDB | [#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) |
 | VLC media | 1 | verified |
