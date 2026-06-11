@@ -6,7 +6,7 @@
 Started from 4 May.
 
 ## CVE
-
+CVE-2026-54010
 
 ## Public / Verified
 
