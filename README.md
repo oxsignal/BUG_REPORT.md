@@ -6,7 +6,7 @@
 Started from 4 May.
 
 ## CVE
-CVE-2026-54010
+[CVE-2026-54010](https://github.com/open-webui/open-webui/security/advisories/GHSA-vrhc-3fr6-pc3c)
 
 ## Public / Verified
 
