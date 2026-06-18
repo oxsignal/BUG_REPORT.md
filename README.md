@@ -30,7 +30,7 @@ Started from 4 May.
 | DuckDB | 1 ||
 | ClickHouse | 3 |BugCrowd|
 | canonical-workshop | 1 | |
-| vercel | 1 | |
+| git | 1 | |
 | cloudflare | 2 |Hacker0ne|
 | Apple macOS | 3 | submitted on Phrack 73 |
 
@@ -46,6 +46,7 @@ Started from 4 May.
 
 | Project | Count | Notes |
 |---|---:|---|
+| vercel | 1 | Not security issue |
 | Flowise | 1 | Dup |
 | Chrome | 1 |  Dup |
 | Open WebUI | 1 | Dup |
