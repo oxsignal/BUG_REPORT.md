@@ -16,7 +16,7 @@ Started from 4 May.
 | Bun | [bun#30621](https://github.com/oven-sh/bun/issues/30621) | Verified |
 | Chrome PDFium | PDFium crash bug | Verified |
 | OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Merged |
-| DuckDB | [#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) |
+| DuckDB | [#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) | Patched |
 | VLC media | 1 | verified |
 | openbao | [#3235](https://github.com/openbao/openbao/issues/3235) |Hardening issue|
 | canonical-workshop | 1 | GHSA accepted |
