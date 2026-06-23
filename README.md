@@ -22,7 +22,7 @@ Last updated: 2026-06-23.
 | VLC media | 1 | Verified; fix scheduled for 3.0.24 |
 | openbao | [#3235](https://github.com/openbao/openbao/issues/3235) | Hardening issue |
 | canonical-workshop | 1 | GHSA accepted |
-| Protobuf | 1 | Upstream acknowledged; Google OSS VRP tracking |
+| Protobuf | 1 | Patched; Google OSS VRP tracking |
 | git | 1 | Maintainer reproduced; public fix planned with reporter credit |
 
 ## Pending Private Disclosure
@@ -34,6 +34,7 @@ Last updated: 2026-06-23.
 | ClickHouse | 3 | BugCrowd |
 | canonical-workshop | 1 | Follow-up / private fork patch path |
 | cloudflare | 2 | HackerOne |
+| Linux Kernel | 1 | kernel panic bug |
 | Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
 
 ## Public Issues / Not Yet Verified by Maintainer
