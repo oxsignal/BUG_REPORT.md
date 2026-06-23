@@ -21,6 +21,7 @@ Started from 4 May.
 | openbao | [#3235](https://github.com/openbao/openbao/issues/3235) |Hardening issue|
 | canonical-workshop | 1 | GHSA accepted |
 | Protobuf | 1 | Verified |
+| git | 1 | Verified |
 
 ## Pending Private Disclosure
 
@@ -30,7 +31,6 @@ Started from 4 May.
 | DuckDB | 1 ||
 | ClickHouse | 3 |BugCrowd|
 | canonical-workshop | 1 | |
-| git | 1 | |
 | cloudflare | 2 |Hacker0ne|
 | Apple macOS | 3 | submitted on Phrack 73 |
 
@@ -58,6 +58,8 @@ Started from 4 May.
 | MongoDB | 1 | Dup|
 | vercel | 3 | Dup|
 | filament | 1 | Dup|
+| postgresql | 1 | Not Security issue|
+
 ## Not Reported
 
 | Project | Count |
