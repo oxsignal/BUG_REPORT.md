@@ -24,7 +24,7 @@ Last updated: 2026-06-23.
 | canonical-workshop | 1 | GHSA accepted |
 | Protobuf | 1 | Patched; Google OSS VRP tracking |
 | git | 1 | Patched |
-| DuckDB | 1 |Patched;Waiting for GHSA |
+| DuckDB | 1 |[PR #23100](https://github.com/duckdb/duckdb/pull/23100) |
 | Linux Kernel | 1 | verified |
 
 ## Pending Private Disclosure
