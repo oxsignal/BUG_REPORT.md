@@ -23,7 +23,7 @@ Last updated: 2026-06-23.
 | openbao | [#3235](https://github.com/openbao/openbao/issues/3235) | Hardening issue |
 | canonical-workshop | 1 | GHSA accepted |
 | Protobuf | 1 | Patched; Google OSS VRP tracking |
-| git | 1 | Maintainer reproduced; public fix planned with reporter credit |
+| git | 1 | Patched |
 
 ## Pending Private Disclosure
 
