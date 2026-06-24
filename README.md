@@ -24,17 +24,16 @@ Last updated: 2026-06-23.
 | canonical-workshop | 1 | GHSA accepted |
 | Protobuf | 1 | Patched; Google OSS VRP tracking |
 | git | 1 | Patched |
+| DuckDB | 1 |Patched;Waiting for GHSA |
+| Linux Kernel | 1 | verified |
 
 ## Pending Private Disclosure
 
 | Vendor / Project | Count | Notes |
 |---|---:|---|
 | Bun | 5 | Several hardening fixes observed; credit/status unclear |
-| DuckDB | 1 | Waiting for GHSA/vendor follow-up |
 | ClickHouse | 3 | BugCrowd |
-| canonical-workshop | 1 | Follow-up / private fork patch path |
 | cloudflare | 2 | HackerOne |
-| Linux Kernel | 1 | kernel panic bug |
 | Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
 
 ## Public Issues / Not Yet Verified by Maintainer
@@ -47,6 +46,7 @@ Last updated: 2026-06-23.
 
 | Project | Count | Notes |
 |---|---:|---|
+| canonical-workshop | 1 | out of scope |
 | vercel | 1 | Not security issue |
 | Flowise | 1 | Dup |
 | Chrome | 1 | Dup |
