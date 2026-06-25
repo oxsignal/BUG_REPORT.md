@@ -5,6 +5,15 @@
 
 Started from 4 May.  
 Last updated: 2026-06-23.
+|||
+|---|---|
+|Tried| 50|
+|CVE|1|
+|Accepted| 12|
+|Pending| 13|
+|N_A| 18|
+|N_R| 5|
+
 
 ## CVE
 
@@ -26,7 +35,7 @@ Last updated: 2026-06-23.
 | git | 1 | verified |
 | DuckDB | 1 |[PR #23100](https://github.com/duckdb/duckdb/pull/23100) |
 | Linux Kernel | 1 | verified |
-
+| SUM | 12 | |
 ## Pending Private Disclosure
 
 | Vendor / Project | Count | Notes |
@@ -35,7 +44,7 @@ Last updated: 2026-06-23.
 | ClickHouse | 3 | BugCrowd |
 | cloudflare | 2 | HackerOne |
 | Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
-
+| SUM |13 ||
 ## Public Issues / Not Yet Verified by Maintainer
 
 | Project | Issue |
@@ -60,7 +69,7 @@ Last updated: 2026-06-23.
 | vercel | 3 | Dup |
 | filament | 1 | Dup / not eligible for Google OSS VRP |
 | PostgreSQL | 1 | Not security issue under PostgreSQL threat model; WAL storage considered trusted |
-
+| SUM |18 ||
 ## Not Reported
 
 | Project | Count |
@@ -68,3 +77,4 @@ Last updated: 2026-06-23.
 | Apple lipo | 2 |
 | Safari crash | 2 |
 | Cloudflare | 1 |
+| SUM |5 ||
