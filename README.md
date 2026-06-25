@@ -12,18 +12,18 @@ Last updated: 2026-06-23.
 
 ## Public / Verified
 
-| Project | Report | Status |
+| Project | Count | Status |
 |---|---|---|
-| NGINX | [commit](https://github.com/nginx/nginx/commit/18a70a4d5806b5578d00460493954262ece55019) | Merged |
-| Bun | [bun#30621](https://github.com/oven-sh/bun/issues/30621) | Verified |
-| Chrome PDFium | PDFium crash bug | Verified |
-| OpenClaw | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) | Merged |
-| DuckDB | [#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) | Patched |
+| NGINX | 1 | [commit](https://github.com/nginx/nginx/commit/18a70a4d5806b5578d00460493954262ece55019) |
+| Bun | 1 | [bun#30621](https://github.com/oven-sh/bun/issues/30621) |
+| Chrome PDFium | 1 | Verified |
+| OpenClaw | 1 | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) |
+| DuckDB | 1 |[#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660)
 | VLC media | 1 | Verified; fix scheduled for 3.0.24 |
-| openbao | [#3235](https://github.com/openbao/openbao/issues/3235) | Hardening issue |
+| openbao | 1| [#3235](https://github.com/openbao/openbao/issues/3235) |
 | canonical-workshop | 1 | GHSA accepted |
-| Protobuf | 1 | Patched; Google OSS VRP tracking |
-| git | 1 | Patched |
+| Protobuf | 1 | [commit](https://github.com/protocolbuffers/protobuf/commit/d944dd038764011730fec2c28e8d738dac2bd828); Google OSS VRP tracking |
+| git | 1 | verified |
 | DuckDB | 1 |[PR #23100](https://github.com/duckdb/duckdb/pull/23100) |
 | Linux Kernel | 1 | verified |
 
