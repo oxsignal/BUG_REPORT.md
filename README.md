@@ -5,14 +5,14 @@
 
 Started from 4 May.  
 Last updated: 2026-06-23.
-|||
-|---|---|
-|Tried| 50|
-|CVE|1|
-|Accepted| 12|
-|Pending| 13|
-|N_A| 18|
-|N_R| 5|
+| Tried | CVE | Accepted | Pending | N_A | N_R |
+|---:|---:|---:|---:|---:|---:|
+| 50 | 1 | 12 | 13 | 18 | 5 |
+
+
+
+
+
 
 
 ## CVE
