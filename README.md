@@ -27,14 +27,14 @@ Last updated: 2026-06-23.
 | Bun | 1 | [bun#30621](https://github.com/oven-sh/bun/issues/30621) |
 | Chrome PDFium | 1 | Verified |
 | OpenClaw | 1 | [PR #83741](https://github.com/openclaw/openclaw/pull/83741) |
-| DuckDB | 3 |[#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660)| [PR #23100](https://github.com/duckdb/duckdb/pull/23100)|
+| DuckDB | 3 |[#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) [PR #23100](https://github.com/duckdb/duckdb/pull/23100)|
 | VLC media | 1 | Verified; fix scheduled for 3.0.24 |
 | openbao | 1| [#3235](https://github.com/openbao/openbao/issues/3235) |
 | canonical-workshop | 1 | GHSA accepted |
 | Protobuf | 1 | [commit](https://github.com/protocolbuffers/protobuf/commit/d944dd038764011730fec2c28e8d738dac2bd828); Google OSS VRP tracking |
 | git | 1 | verified |
 | Linux Kernel | 1 | [PATCH](https://lore.kernel.org/bpf/20260628201103.3624525-1-mattbobrowski@google.com/T/#u) |
-| SUM | 12 | |
+| SUM | 13 | |
 ## Pending Private Disclosure
 
 | Vendor / Project | Count | Notes |
