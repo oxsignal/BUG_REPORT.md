@@ -5,12 +5,6 @@
 
 Started from 4 May.  
 Last updated: 2026-06-23.
-| Tried | CVE | Accepted | Pending | N_A | N_R |
-|---:|---:|---:|---:|---:|---:|
-| 50 | 1 | 12 | 13 | 18 | 5 |
-
-
-
 
 
 
