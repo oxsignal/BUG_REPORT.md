@@ -26,7 +26,7 @@ Last updated: 2026-06-23.
 | openbao | 1| [#3235](https://github.com/openbao/openbao/issues/3235) |
 | canonical-workshop | 1 | GHSA accepted |
 | Protobuf | 1 | [commit](https://github.com/protocolbuffers/protobuf/commit/d944dd038764011730fec2c28e8d738dac2bd828); Google OSS VRP tracking |
-| git | 1 | verified |
+| git | 1 | [PATCH](https://lore.kernel.org/git/20260624-pks-reftable-hardening-v1-0-66e4ce87c6b9@pks.im/T/#m84b44a2c7616caedbdc253a3e8172f21d6883d0f) |
 | Linux Kernel | 1 | [PATCH](https://lore.kernel.org/bpf/20260628201103.3624525-1-mattbobrowski@google.com/T/#u) |
 | SUM | 13 | |
 ## Pending Private Disclosure
