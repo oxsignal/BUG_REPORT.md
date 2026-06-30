@@ -38,11 +38,7 @@ Last updated: 2026-06-23.
 | cloudflare | 2 | HackerOne |
 | Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
 | SUM |13 ||
-## Public Issues / Not Yet Verified by Maintainer
 
-| Project | Issue |
-|---|---|
-| llama.cpp | [ggml-org/llama.cpp#23108](https://github.com/ggml-org/llama.cpp/issues/23108) |
 
 ## Duplicate / Not Accepted
 
@@ -71,3 +67,8 @@ Last updated: 2026-06-23.
 | Safari crash | 2 |
 | Cloudflare | 1 |
 | SUM |5 ||
+
+## Not sure
+| Project | Issue |
+|---|---|
+| llama.cpp | [ggml-org/llama.cpp#23108](https://github.com/ggml-org/llama.cpp/issues/23108) |
