@@ -20,7 +20,7 @@ Last updated: 2026-06-23.
 | NGINX | 1 | [commit](https://github.com/nginx/nginx/commit/18a70a4d5806b5578d00460493954262ece55019) |
 | Bun | 1 | [bun#30621](https://github.com/oven-sh/bun/issues/30621) |
 | Chrome PDFium | 1 | Verified |
-| OpenClaw | 1 | [GHSA](https://github.com/openclaw/openclaw/security/advisories/GHSA-fh8v-vgcv-pwh) |
+| OpenClaw | 1 | [GHSA](https://github.com/openclaw/openclaw/security/advisories/GHSA-fh8v-vgcv-pwh4) |
 | DuckDB | 3 |[#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) [PR #23100](https://github.com/duckdb/duckdb/pull/23100)|
 | VLC media | 1 | Verified; fix scheduled for 3.0.24 |
 | openbao | 1| [#3235](https://github.com/openbao/openbao/issues/3235) |
