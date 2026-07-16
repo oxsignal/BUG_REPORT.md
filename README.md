@@ -24,7 +24,7 @@ Last updated: 2026-06-23.
 | DuckDB | 3 |[#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) [PR #23100](https://github.com/duckdb/duckdb/pull/23100)|
 | VLC media | 1 | Verified; fix scheduled for 3.0.24 |
 | openbao | 1| [#3235](https://github.com/openbao/openbao/issues/3235) |
-| canonical-workshop | 1 | GHSA accepted |
+| canonical-workshop | 1 | GHSA accepted [PR #929](https://github.com/canonical/workshop/commit/0a5252b713327eead41ec6f9df3716c195d20e59) |
 | Protobuf | 1 | [commit](https://github.com/protocolbuffers/protobuf/commit/d944dd038764011730fec2c28e8d738dac2bd828); Google OSS VRP tracking |
 | git | 1 | [PATCH](https://lore.kernel.org/git/20260624-pks-reftable-hardening-v1-0-66e4ce87c6b9@pks.im/T/#m84b44a2c7616caedbdc253a3e8172f21d6883d0f) |
 | Linux Kernel | 1 | [commit](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf.git/commit/?id=a6f0643e4f63cfaa0d5d4a69de4f132eac4b8fe4) |
