@@ -28,16 +28,16 @@ Last updated: 2026-07-21.
 | Protobuf | 1 | [commit](https://github.com/protocolbuffers/protobuf/commit/d944dd038764011730fec2c28e8d738dac2bd828); Google OSS VRP tracking |
 | git | 1 | [PATCH](https://lore.kernel.org/git/20260624-pks-reftable-hardening-v1-0-66e4ce87c6b9@pks.im/T/#m84b44a2c7616caedbdc253a3e8172f21d6883d0f) |
 | Cloudflare | 1 | HackerOne Bounty award |
-| SUM | 13 | |
+| ClickHouse | 3 | BugCrowd |
+| SUM | 16 | |
 ## Pending Private Disclosure
 
 | Vendor / Project | Count | Notes |
 |---|---:|---|
 | Bun | 5 | Several hardening fixes observed; credit/status unclear |
-| ClickHouse | 3 | BugCrowd |
-| cloudflare | 2 | HackerOne |
+| cloudflare | 1 | HackerOne |
 | Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
-| SUM |13 ||
+| SUM | 9 ||
 
 
 ## Duplicate / Not Accepted
