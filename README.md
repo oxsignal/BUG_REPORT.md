@@ -36,8 +36,9 @@ Last updated: 2026-07-21.
 |---|---:|---|
 | Bun | 5 | Several hardening fixes observed; credit/status unclear |
 | cloudflare | 1 | HackerOne |
+| QEMU | 2 | Gitlab |
 | Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
-| SUM | 9 ||
+| SUM | 11 ||
 
 
 ## Duplicate / Not Accepted
