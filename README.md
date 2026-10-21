@@ -13,6 +13,7 @@ Last updated: 2026-07-21.
 
 [CVE-2026-54010](https://github.com/open-webui/open-webui/security/advisories/GHSA-vrhc-3fr6-pc3c)
 [CVE-2026-64192](https://lore.kernel.org/linux-cve-announce/2026072052-CVE-2026-64192-8cd7@gregkh/T/#u)
+[CVE-2026-86958](...)
 ## Public / Verified
 
 | Project | Count | Status |
