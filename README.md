@@ -23,7 +23,7 @@ Last updated: 2026-07-21.
 | Chrome PDFium | 1 | [commit](https://pdfium.googlesource.com/pdfium.git/+/6e6558c5b9ebc7f71537684b8a48f456e2239c07) |
 | OpenClaw | 1 | [GHSA](https://github.com/openclaw/openclaw/security/advisories/GHSA-fh8v-vgcv-pwh4) |
 | DuckDB | 3 |[#22663](https://github.com/duckdb/duckdb/issues/22663) [#22660](https://github.com/duckdb/duckdb/issues/22660) [PR #23100](https://github.com/duckdb/duckdb/pull/23100)|
-| VLC media | 1 | Verified; fix scheduled for 3.0.24 |
+| VLC media | 1 | [#29884](https://www.videolan.org/security/sb-vlc3024.html) |
 | openbao | 1| [#3235](https://github.com/openbao/openbao/issues/3235) |
 | canonical-workshop | 1 | GHSA accepted [PR #929](https://github.com/canonical/workshop/commit/0a5252b713327eead41ec6f9df3716c195d20e59) |
 | Protobuf | 1 | [commit](https://github.com/protocolbuffers/protobuf/commit/d944dd038764011730fec2c28e8d738dac2bd828); Google OSS VRP tracking |
