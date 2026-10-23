@@ -4,7 +4,7 @@
 > Entries are based on manual verification and vendor-visible artifacts.
 
 Started from 4 May.  
-Last updated: 2026-07-21.
+Last updated: 2026-10-23.
 
 
 
@@ -36,11 +36,12 @@ Last updated: 2026-07-21.
 | Vendor / Project | Count | Notes |
 |---|---:|---|
 | Bun | 5 | Several hardening fixes observed; credit/status unclear |
-| cloudflare | 1 | HackerOne |
-| QEMU | 2 | Gitlab |
-| gitea|2 | GHSA|
-| Apple macOS | 3 | Submitted to Phrack 73 after Apple declined security classification |
-| SUM | 13 ||
+| QEMU | 4 | Escape + |
+| MSFT | 2 | RCE + |
+| gitea| 2 | GHSA|
+| Apple macOS | 2 | Safari, Side channel |
+
+| SUM | 15 ||
 
 
 ## Duplicate / Not Accepted
@@ -62,12 +63,13 @@ Last updated: 2026-07-21.
 | filament | 1 | Dup / not eligible for Google OSS VRP |
 | PostgreSQL | 1 | Not security issue under PostgreSQL threat model; WAL storage considered trusted |
 | SUM |18 ||
+| cloudflare | 1 | HackerOne |
+| Apple macOS | 3 | Apple declined security classification |
 ## Not Reported
 
 | Project | Count |
 |---|---:|
 | Apple lipo | 2 |
-| Safari crash | 2 |
 | Cloudflare | 1 |
 | SUM |5 ||
 
