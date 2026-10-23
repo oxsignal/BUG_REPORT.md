@@ -40,8 +40,7 @@ Last updated: 2026-10-23.
 | MSFT | 2 | RCE + |
 | gitea| 2 | GHSA|
 | Apple macOS | 2 | Safari, Side channel |
-
-| SUM | 15 ||
+| SUM | 15 | | 
 
 
 ## Duplicate / Not Accepted
