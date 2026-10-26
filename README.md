@@ -62,16 +62,16 @@ Last updated: 2026-10-23.
 | vercel | 3 | Dup |
 | filament | 1 | Dup / not eligible for Google OSS VRP |
 | PostgreSQL | 1 | Not security issue under PostgreSQL threat model; WAL storage considered trusted |
-| SUM |18 ||
 | cloudflare | 1 | HackerOne |
 | Apple macOS | 3 | Apple declined security classification |
+| SUM | 21 ||
 ## Not Reported
 
 | Project | Count |
 |---|---:|
 | Apple lipo | 2 |
 | Cloudflare | 1 |
-| SUM |5 ||
+| SUM | 3||
 
 ## Not sure
 | Project | Issue |
