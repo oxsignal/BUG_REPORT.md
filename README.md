@@ -15,6 +15,7 @@ Last updated: 2026-10-23.
 [CVE-2026-64192](https://lore.kernel.org/linux-cve-announce/2026072052-CVE-2026-64192-8cd7@gregkh/T/#u)
 [CVE-2026-86958](...)
 [CVE-2026-116483](...)
+[CVE-2026-118594](...)
 ## Public / Verified
 
 | Project | Count | Status |
