@@ -13,9 +13,9 @@ Last updated: 2026-10-23.
 
 [CVE-2026-54010](https://github.com/open-webui/open-webui/security/advisories/GHSA-vrhc-3fr6-pc3c)
 [CVE-2026-64192](https://lore.kernel.org/linux-cve-announce/2026072052-CVE-2026-64192-8cd7@gregkh/T/#u)
-[CVE-2026-86958](...)
+[CVE-2026-86958](https://support.apple.com/ko-kr/149035)
 [CVE-2026-116483](...)
-[CVE-2026-118594](https://lore.kernel.org/qemu-devel/20261029114312.1502759-1-stefanha@redhat.com/T/#u))
+[CVE-2026-118594](https://lore.kernel.org/qemu-devel/20261029114312.1502759-1-stefanha@redhat.com/T/#u)
 ## Public / Verified
 
 | Project | Count | Status |
