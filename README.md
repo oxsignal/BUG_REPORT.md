@@ -4,24 +4,17 @@
 > Entries are based on manual verification and vendor-visible artifacts.
 
 Started from 4 May.  
-Last updated: 2026-10-23.
+Last updated: 2026-11-07.
 
 
 
 
 ## CVE
+|[CVE-2026-54010](https://github.com/open-webui/open-webui/security/advisories/GHSA-vrhc-3fr6-pc3c)|[CVE-2026-64192](https://lore.kernel.org/linux-cve-announce/2026072052-CVE-2026-64192-8cd7@gregkh/T/#u)|[CVE-2026-86958](https://support.apple.com/ko-kr/149035)|
+|---|---|---|
+|[CVE-2026-116483](...)|[CVE-2026-117386](...)|[CVE-2026-118594](https://lore.kernel.org/qemu-devel/20261029114312.1502759-1-stefanha@redhat.com/T/#u)|
 
-[CVE-2026-54010](https://github.com/open-webui/open-webui/security/advisories/GHSA-vrhc-3fr6-pc3c)
 
-[CVE-2026-64192](https://lore.kernel.org/linux-cve-announce/2026072052-CVE-2026-64192-8cd7@gregkh/T/#u)
-
-[CVE-2026-86958](https://support.apple.com/ko-kr/149035)
-
-[CVE-2026-116483](...)
-
-[CVE-2026-117386](...)
-
-[CVE-2026-118594](https://lore.kernel.org/qemu-devel/20261029114312.1502759-1-stefanha@redhat.com/T/#u)
 
 ## Public / Verified
 
@@ -45,43 +38,12 @@ Last updated: 2026-10-23.
 | Vendor / Project | Count | Notes |
 |---|---:|---|
 | Bun | 5 | Several hardening fixes observed; credit/status unclear |
-| QEMU | 4 | Escape + |
-| MSFT | 2 | RCE + |
-| gitea| 2 | GHSA|
+| QEMU | 1 | triage in progress|
+| Windows | 2 | MSRC|
+| gitea| 1 | GHSA|
 | Apple macOS | 2 | Safari, Side channel |
-| SUM | 15 | | 
+| SUM | 11 | | 
 
 
 ## Duplicate / Not Accepted
-
-| Project | Count | Notes |
-|---|---:|---|
-| canonical-workshop | 1 | out of scope |
-| vercel | 1 | Not security issue |
-| Flowise | 1 | Dup |
-| Chrome | 1 | Dup |
-| Open WebUI | 1 | Dup |
-| Codex CLI | 1 | Obsolete |
-| Codex Windows | 1 | Patched during triage |
-| ClickHouse | 2 | Dup |
-| Apple macOS | 2 | Not security issue |
-| VLC media | 1 | Dup |
-| MongoDB | 1 | Dup |
-| vercel | 3 | Dup |
-| filament | 1 | Dup / not eligible for Google OSS VRP |
-| PostgreSQL | 1 | Not security issue under PostgreSQL threat model; WAL storage considered trusted |
-| cloudflare | 1 | HackerOne |
-| Apple macOS | 3 | Apple declined security classification |
-| SUM | 21 ||
-## Not Reported
-
-| Project | Count |
-|---|---:|
-| Apple lipo | 2 |
-| Cloudflare | 1 |
-| SUM | 3||
-
-## Not sure
-| Project | Issue |
-|---|---|
-| llama.cpp | [ggml-org/llama.cpp#23108](https://github.com/ggml-org/llama.cpp/issues/23108) |
+There are many duplicated reports so I gave up to track them.
